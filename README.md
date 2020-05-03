@@ -22,5 +22,5 @@ def maximum[T](xs: List[T])(using Ord[T]): T = xs.reduceLeft(max)
 
 ## TODO
 
-- Write up all the syntactic cases it supports, eg what about mised use of some explicit context bounds and some `#` notation
+- Write up all the syntactic cases it supports, eg what about mixed use of some explicit context bounds and some `#` notation?
 - Implement a plugin :P
