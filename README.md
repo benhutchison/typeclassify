@@ -1,6 +1,8 @@
-# Typeclassify
+# ~Typeclassify~
 
 *Refer to Type-Classes-on-data as is they are the Type of the data*
+
+**TLDR:** idea not considered viable. In Dotty, the power of compiler plugins has been greatly restricted to avoid creating dialects of Scala (as proposed here!). Only "research plugins" have the power required to implement the ideas powered here, and they are limited to use on dotty snapshots. See [gitter discussion](https://gitter.im/lampepfl/dotty?at=5eaec2f60b23797ec05c8dac).
 
 ## Overview
 
